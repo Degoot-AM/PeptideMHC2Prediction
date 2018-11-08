@@ -1,0 +1,17 @@
+citHeader("To cite PeptideMHC2Prediction in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Trans-Allelic Model for Prediction of Peptide:MHC-II Interactions",
+  author       = personList(as.person("Abdoelnaser M Degoot"),
+                   as.person("Faraimunashe Chirove"),
+                   as.person("Wilfred Ndifon"),
+  journal      = "Frontiers in Immunology",
+  year         = "2018",
+  volume       = "9",
+  No        = "1410",
+  doi       = "10.3389/fimmu.2018.01410"
+  url          = "https://www.frontiersin.org/articles/10.3389/fimmu.2018.01410/full",
+  textVersion  = paste("Degoot AM, Chirove F and Ndifon W (2018)",  "Trans-Allelic Model for Prediction of Peptide:MHC-II Interactions.", "Front. Immunol.", " 9:1410.", "
+doi: 10.3389/fimmu.2018.01410",
+    "https://www.frontiersin.org/articles/10.3389/fimmu.2018.01410/full.")
+)

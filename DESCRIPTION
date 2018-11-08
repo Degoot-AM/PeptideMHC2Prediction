@@ -1,0 +1,19 @@
+Package: PeptideMHC2Prediction
+Type: Package
+Title: Prediction of Peptide:MHC-II Molecules Interactions
+Version: 0.1.0
+Authors@R: c(
+    person("Abdoelnaser", "Degoot", email = "degoot@aims.ac.za", role = "cre"),
+    person("Wilfred", "Ndifon", email = "wndifon@aims.ac.za", role = "aut"),
+    person("Faraimunashe", "Chirove", email = "chirovef@ukzn.ac.za", role = "aut"))
+Maintainer: Abdoelnaser Degoot <degoot@aims.ac.za>
+Description: Makes predictions of peptides and MHC-II molecules using 
+    biophysical ideas.
+License: CC BY-NC-SA 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
